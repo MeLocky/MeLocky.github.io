@@ -11,12 +11,12 @@ if ($(window).width() <= 1280) {
 }
 
 // Variables
-    tag1       = $('.all_passege'),
-    tag2       = $('.about_life'),
-    tag3       = $('.place_your_tag_name_here'),
-    tag4       = $('.place_your_tag_name_here'),
-    tag5       = $('.place_your_tag_name_here'),
-    tag6       = $('.place_your_tag_name_here');
+    tag1       = $('.my_space'),
+    tag2       = $('.my_life'),
+    tag3       = $('.learning'),
+    tag4       = $('.english'),
+    tag5       = $('.passege'),
+    tag6       = $('.remarks');
 var sidebar    = $('#sidebar'),
     container  = $('#post'),
     content    = $('#pjax'),
